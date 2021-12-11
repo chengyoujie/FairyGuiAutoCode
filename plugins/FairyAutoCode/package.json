@@ -1,0 +1,11 @@
+{
+  "name": "autocode",
+  "displayName": "FairyAutoCode",
+  "description": "发布Fairy代码插件",
+  "version": "1.0",
+  "author": {
+    "name": "cyj"
+  },
+  "icon": "",
+  "main": "main.js"
+}

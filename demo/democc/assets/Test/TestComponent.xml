@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <text id="n0_turn" name="txtDes" xy="10,14" size="78,37" fontSize="12" color="#cc0000" autoSize="none" text="Component&#xA;Test" input="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+{
+  "name": "cyj",
+  "version": "1.0.0",
+  "description": " code publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cyj",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^16.6.1"
+  }
+}

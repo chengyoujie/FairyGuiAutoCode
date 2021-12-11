@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="88z88itg">
+  <resources>
+    <component id="lt280" name="Test.xml" path="/" exported="true"/>
+    <component id="turn1" name="TestComponent.xml" path="/"/>
+    <component id="fu722" name="ProgressBarTest.xml" path="/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

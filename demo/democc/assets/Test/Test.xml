@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <text id="n0_cbcp" name="txt" xy="305,137" size="28,19" fontSize="12" text="文本"/>
+    <graph id="n1_cbcp" name="img" xy="257,193" size="100,100" type="rect"/>
+    <component id="n2_turn" name="comp" src="turn1" fileName="TestComponent.xml" xy="397,193"/>
+    <component id="n3_fu72" name="comp2" src="fu720" fileName="Comp2.xml" pkg="di911hki" xy="389,293"/>
+    <component id="n4_fu72" name="bar" src="fu722" fileName="ProgressBarTest.xml" xy="398,163">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

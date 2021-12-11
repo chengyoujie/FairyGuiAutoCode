@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <text id="n0_fu72" name="n0" xy="2,13" size="96,36" fontSize="12" color="#3333ff" text="包Test2中的文本&#xA;"/>
+  </displayList>
+</component>
