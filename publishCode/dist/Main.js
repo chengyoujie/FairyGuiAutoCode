@@ -209,9 +209,9 @@ class Main {
 }
 exports.default = Main;
 //test
-process.argv[2] = "Test"; //"CreateRole";
-process.argv[3] = "D:/cocos/autocode/FairyGuiAutoCode/demo/democc/./../code"; //"./../../src"
-process.argv[4] = "D:/cocos/autocode/FairyGuiAutoCode/demo/democc";
+// process.argv[2] = "Test";//"CreateRole";
+// process.argv[3] = "D:/cocos/autocode/FairyGuiAutoCode/demo/democc/./../code";//"./../../src"
+// process.argv[4] = "D:/cocos/autocode/FairyGuiAutoCode/demo/democc";
 //run
 new Main();
 //# sourceMappingURL=Main.js.map
